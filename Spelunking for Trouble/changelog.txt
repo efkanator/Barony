@@ -21,7 +21,9 @@ half adventurous and the other half a hub of sorts. Rest assured, quantity-wise 
 have a fairly concluded version of both the first two levels, being Cave and Forest.
 
 For now, to avoid a barren taste for the pack, try changing the original "levels.txt" on the line that determines the game's start
-level as opposed to exchanging the old "levels.txt"/"secretlevels.txt" with the new ones, which will be more efficient once more maps are added. You can try and change "start" to "sft_customstart" and you're all set to go. This way, you can try the game with my additional map and not just the map on it's own. That wouldn't be any fun. At all.
+level as opposed to exchanging the old "levels.txt"/"secretlevels.txt" with the new ones, which will be more efficient once more
+maps are added. You can try and change "start" to "sft_customstart" and you're all set to go. This way, you can try the game with
+my additional map and not just the map on it's own. That wouldn't be any fun. At all.
 
 
 
