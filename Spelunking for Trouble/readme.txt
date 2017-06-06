@@ -57,7 +57,7 @@ You need more help? Visit the offical Barony Discord Server!
 
 - [Install:] -
 
-	To install the Dungeon all you have to do is to copy the .lmp-files from the "maps" folder from the 
+	To install the map pack all you have to do is to copy the .lmp-files from the "maps" folder from the 
         ZIP into your "...steamapps/common/Barony/maps" folder. You should also replace the following lines
         at the top of your existing "levels.txt" resp. "secretlevels.txt", both also found in your
 	"...steamapps/common/Barony/maps" folder, with these lines:
