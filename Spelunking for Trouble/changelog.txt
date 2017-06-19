@@ -1,29 +1,41 @@
 - [Info] -
 
 Name:			Spelunking for Trouble
-Short:			SfT
-Version: 		0.0.1
-Dungeons:		1
+Short:			SFT
+Version: 		0.0.5
+Stages:		        3, counting the start stage
+Modules:                17
 Created by: 	        KinGQII
 Edited by: 		-
 
 
 
-- 20##-##-## - [#.#.#:] - "update name" - 
+- 2017-06-19 - [0.0.5:] - Here comes Caves and Forests - 
 
-"Placeholder for the next update"
+I didn't feel secure enought to release the genmaps and modules for the cave and forest stages during the
+initial update and narrowed the shared content down to just the starter map. But 'lo and behold, he comes
+a roughly 80% complete cave genmap with 12 modules together with a roughly 50% complete forest genmap with
+considerably less modules, 5. But unlike the original mappack, there weren't a boss stage at the end of
+each stage but a mere transition stage where you would wander from one biome to the next. Well, this pack
+will put the difficulty of all four generations of each stage and concentrate it into a single boss stage.
+
+The secret modules for both the cave and forest stages works fine but there aren't currently any proper
+secret stages although I have some in mind. Therefore, when you notice a puzzle leading to a somewhat
+more secret gate/door leading to a secret stair case, just ignore them and try to enjoy the rest of this
+update.
 
 
 - 2017-06-06 - [0.0.1:] - Initial Update - 
 
-Right, this is the initial update for the pack and as of such, there is currently only one map available, the start map which is
-half adventurous and the other half a hub of sorts. Rest assured, quantity-wise it is not the only map that is in the making. I
-have a fairly concluded version of both the first two levels, being Cave and Forest.
+Right, this is the initial update for the pack and as of such, there is currently only one map available, 
+the start map which is half adventurous and the other half a hub of sorts. Rest assured, quantitiy-wise it 
+is not the only map that is in the making. I have a fairly concluded version of both the first two levels, 
+being Cave and Forest.
 
-For now, to avoid a barren taste for the pack, try changing the original "levels.txt" on the line that determines the game's start
-level. Use this method as opposed to exchanging the old "levels.txt"/"secretlevels.txt" with the new ones, which will be more
-efficient once more maps are added. You can try and change "start" to "sft_customstart" and you're all set to go. This way, you 
-can try the game with my additional map and not just the map on it's own. That wouldn't be any fun. At all.
+For now, to avoid a barren taste for the pack, try changing the original "levels.txt" on the line that 
+determines the game's start level. You can try and change "start" to "sft_customstart" and you're all set 
+to go. This way, you can try the game with my additional map and not just the map on it's own. That 
+wouldn't be any fun. At all.
 
 
 
