@@ -2,14 +2,14 @@
 
 Name:			Spelunking for Trouble
 Short:			SFT
-Version: 		0.0.5
-Stages:		        3, counting the start stage
-Modules:                17
+Version: 		0.0.6
+Stages:		        4, counting the start stage
+Modules:                30
 Created by: 	        KinGQII
 Edited by: 		-
 
 
-Hey, let's have this said before anything. Thank YOU, for downloading my map pack. Really.
+Hey, let's have this said before anything. Thank YOU, for downloading my map pack. Really. Tipping my hat to you. Right now. There we go, my hat is tipped.
 
 
 
@@ -26,7 +26,7 @@ Speaking of levels, the pack contains the following stages with the following th
         IsImplemented:           Yes
         Quantity of Generations: 4
         Quantity of Modules:     12
-        Secret Stages:           0
+        Secret Stages:           1
         Has boss stage:          Yes 
         Discription:             Mountain interior so-to-say, ranging from tight spaces to wide 
                                  corridors with hidden stashes and chasm floors. But these 
@@ -38,9 +38,9 @@ Speaking of levels, the pack contains the following stages with the following th
         Map-Attribute:           Swamp
         IsImplemented:           Yes
         Quantity of Generations: 4
-        Quantity of Modules:     5
+        Quantity of Modules:     8
         Secret Stages:           0
-        Has boss stage:          Yes 
+        Has boss stage:          No 
         Discription:             Forestry, with meadows and scattered sheds. I am well aware 
                                  that there's no open sky and that the forest has an 
                                  underground appearance but we've all got imaginations so let's 
@@ -48,15 +48,18 @@ Speaking of levels, the pack contains the following stages with the following th
                                  but ranges between wide and tight, to and fro nonetheless.
 
 
-        Name:                    Ancient
+        Name:                    Sand
         Map-Attribute:           Labyrinth
-        IsImplemented:           No
-        Quantity of Generations: 0
-        Quantity of Modules:     0
+        IsImplemented:           Yes
+        Quantity of Generations: 4
+        Quantity of Modules:     10
         Secret Stages:           0
         Has boss stage:          No 
-        Discription:             Ancient, being extremely resembling to the original Labyrinth 
-                                 but I'll find a way yet to make it stand out.
+        Discription:             A desolate valley full of sand, scorpions and traps. Oh my, oh so
+                                 many traps. Like look alive-stay frosty-be careful-think before
+                                 you tread-many traps. Let's hope you'll learn to disarm them! Or
+                                 you can hope to get lucky whilst passing through, either method is
+                                 as risky as the other.
         
 
         Name:                    Temple
@@ -99,47 +102,28 @@ Speaking of levels, the pack contains the following stages with the following th
 	
 
 
-The pack will be shared and updated via Github and will be the main way of finding. This 
-is to avoid redundancy for the viewers. Again, thanks a million for testing the Map, if 
-you see anything that's looking like a bug, please feel free to report them on our Discord 
-Server in the proper channel! Also make sure to stay in touch with the folder's changelog.txt
-file to not miss anything new!
+This package will be shared and updated via Github and will be the main way of 
+finding it. This is to avoid redundancy for the viewers. Again, thanks a million 
+for simply taking your time to even READ this and if you see anything that's looking 
+like a bug or something that could need fixing, please feel free to report them 
+on our Discord Server in the proper channel!
 
 
-You need more help? Visit the offical Barony Discord Server! 
+Speaking of redundancy, lemme introduce our Discord Channel again! 's great! 
+You should really head on over!
 --> https://discord.gg/3kBh6cY
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 - [Install:] -
 
-	To install the Dungeon all you have to do is to copy the "maps" folder from the 
-        ZIP into your "...steamapps/common/Barony" folder and you are ready to go! But 
-        make a backup for your existing "levels.txt" and "secretlevels.txt" first to not 
-        risk losing your previous files.
+	To install the package all you have to do is to copy the folders from the 
+        package into your "...steamapps/common/Barony" folder and you are ready to go! BUT 
+        make sure to look through these edited files and make an appropriate backup where 
+	needed to avoid risk losing your previous files.
 
 	
 - [Uninstall:] -
 
-	To uninstall the Dungeonsystem, go to your "...steamapps/common/Barony/maps" folder 
-        and delete all files with the prefix "SFT_". After you've done that, delete the 
-        "levels.txt" and "secretlevels.txt"-
-	
-	Now right click on Barony in your Steam Library:
-	> Settings
-	> Local Data
-	There you will see a button called "Verify Game Cache" click on that and wait for 
-        Steam to check your Data. After around 1 minute at most, you'll be ready to play again.
-	
-
-	- [Simpler Solution] -
-	
-	If you dont care about the files in your folder but still want to play the usual setup:
-	
-	Copy the following Text into your "levels.txt" and the second one into your "secretlevels.txt"
-	which you can found in your "...steamapps/common/Barony/maps" folder.
-
-
-
-Readme structure provided by the Discord channel's own Opulus, that guy's alright.
-
+	Remove the files in the edited folder and continue to restore your backup. 
+	You DID make one, right?
