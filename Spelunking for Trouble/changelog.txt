@@ -13,22 +13,19 @@ Edited by: 		-
 - 2017-08-18 - [0.0.6:] - Sands, More Forest and even more Sands - 
 
 Added the new level area, sand, where you're put in a sandy ruin area filled with traps, traps and more
-traps. I mean, yikes, this is the most perilous stage so far BY far so make sure your GUARD is on guard.
-Aside from the new stage, there was a distinct quantity of secret stages missing. Sure there were stage-
-specific boss stages for the cave and the forest so far but no secret stages such as the temple, the 
-minetown and the gnome mine.
-
-Not to spoil too much, there's a secret for the cave resp. the forest now. I'm gonna keep it a secret 'til
-you find it.
+traps. I mean, yikes, this is the most perilous stage so far BY far, so make sure your GUARD is on guard.
+Aside from the new stage, there was a distinct quantity of secret stages missing. Sure there were a stage-
+specific boss stage for the cave so far but no secret stages such as the temple, the minetown and the 
+gnome mine. So I added a little piece for the cave that it available as of now.
 
 Now that I've mentioned the forest, it also felt lacking with it's low module quantity of 4. So there's that
-fixed too. It's been upgraded up to __ now so you can frolick to your heart's content.
+fixed too. It's been upgraded up to 8 now so you can frolick to your heart's content.
 
-What is left to be desired by me that I couldn't complete for this update would be secret/boss stage for
+What is left to be desired by me that I couldn't complete for this update would be secret/boss stages for
 both the forest and the sand stage. I've rigged the levels.txt to skip these areas so once you've completed
 SFTsand.lmp four times, you've hit bedrock and I haven't made anything past that. If you look through
-every of the including maps you'll find additional unfinished tests and secrets that might just see the light
-of day. One day.
+every including map you'll find additional unfinished tests and secrets that might just see the light
+of day. One day. Some day. Maybe. Mayday. We're going down.
 
 
 - 2017-06-19 - [0.0.5:] - Here comes Caves and Forests - 
