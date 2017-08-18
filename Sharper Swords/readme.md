@@ -1,0 +1,43 @@
+- [Info] -
+
+Name:			Spelunking for Trouble
+Type:     Model Pack
+Created by: 	        KinGQII
+
+
+- [Introduction:] -
+
+Barony has it's own assortment of four swords available in-game (so far). These consists of the bronze sword that, imo, 
+looks more like a dagger. Then the iron sword potraying a scimitar cutlass but those don't have the sword feel I'm looking
+for. After that it's the steel sword looking much like the elven sword of ID Software's Orcs & Elves, so that's one sword
+I can dig so far. At last, the magic sword, de-eerwin. Derwin. Der-Dar. Darwi. Darwin?. Darwin. Darwin the sword which'
+appearance leaves more to be desired from me.
+
+This is the part where's I'm supposed to go "Pfft, those vanilla swords sucked so that's why I made my own OC sword!
+Do not steal!" But nah. I just felt like I needed some "me" swords. And then decided to share them. Sure they might look
+goofy, BUT THEY'RE MY CHILDREN, ALRIGHT? It would make my day if you tried them out though. Who knows? I might just make
+more weapons in this style, one for each in the vanilla and do a complete conversion of weaponry!
+
+This package will be shared and updated via Github and will be the main way of finding it. This 
+is to avoid redundancy for the viewers. Again, thanks a million for testing the Map, if 
+you see anything that's looking like a bug, please feel free to report them on our Discord 
+Server in the proper channel!
+
+
+Speaking of redundancy, lemme introduce our Discord Channel again! 's great! You should really head on over!
+--> https://discord.gg/3kBh6cY
+
+----------------------------------------------------------------------------------------------------------------------------
+
+- [Install:] -
+
+	To install the package all you have to do is to copy the "maps" folder from the 
+        ZIP into your "...steamapps/common/Barony" folder and you are ready to go! But 
+        make sure to look through these edited files and make an appropriate backup where needed
+        to avoid risk losing your previous files.
+
+	
+- [Uninstall:] -
+
+	Remove the files in the edited folder and continue to restore your backup. You DID make one, right?
+
