@@ -8,4 +8,4 @@ This entitles my custom:
 - language files
 
 
-I do not own Barony. As mentioned it is available on Stean from their proper publisher, Turning Wheel LLC, and I claim nothing as partially my own 'cept for my custom designs. Please support the official release.
+I do not own Barony. As mentioned it is available on Steam from their proper publisher, Turning Wheel LLC, and I claim nothing as my own 'cept for my custom designs. Please support the official release.
