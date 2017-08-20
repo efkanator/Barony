@@ -40,7 +40,7 @@ Speaking of levels, the pack contains the following stages with the following th
         Quantity of Generations: 4
         Quantity of Modules:     8
         Secret Stages:           0
-        Has boss stage:          No 
+        Has boss stage:          Yes 
         Discription:             Forestry, with meadows and scattered sheds. I am well aware 
                                  that there's no open sky and that the forest has an 
                                  underground appearance but we've all got imaginations so let's 
