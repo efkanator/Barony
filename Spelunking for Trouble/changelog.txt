@@ -16,7 +16,10 @@ Added the new level area, sand, where you're put in a sandy ruin area filled wit
 traps. I mean, yikes, this is the most perilous stage so far BY far, so make sure your GUARD is on guard.
 Aside from the new stage, there was a distinct quantity of secret stages missing. Sure there were a stage-
 specific boss stage for the cave so far but no secret stages such as the temple, the minetown and the 
-gnome mine. So I added a little piece for the cave that it available as of now.
+gnome mine. So I added a little piece for the cave that it available as of now. But as the sands area is
+filled with traps, that means that, to do yourself a favor, me a favor, sweet Jebus in the sky a favor,
+please turn off the auto-generated traps flag in the main menu. This would trigger and ruin traps and such
+of the maps themselves making them feel broken.
 
 Now that I've mentioned the forest, it also felt lacking with it's low module quantity of 4. So there's that
 fixed too. It's been upgraded up to 8 now so you can frolick to your heart's content.
