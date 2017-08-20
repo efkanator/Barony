@@ -7,11 +7,12 @@ map: SFTcaveboss
 gen: SFTforest
 gen: SFTforest
 gen: SFTforest
-gen: SFTsand
-gen: SFTsand
-gen: SFTsand
-gen: SFTsand
+gen: SFTforest
 map: SFTforestboss
+gen: SFTsand
+gen: SFTsand
+gen: SFTsand
+gen: SFTsand
 gen: SFTancient
 gen: SFTancient
 gen: SFTancient
