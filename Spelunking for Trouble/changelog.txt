@@ -16,7 +16,7 @@ UNCOMMIT CHANGES:
 - Changed structure of end phase of SFTforestboss.lmp.
 - Changed textures of swampsecret.lmp to allow trees to replace some moss brick walls.
 - Changed floor/ceiling texture in ogre vault section of SFTcustomstart.lmp.
-- Added ID# to every secret map from here on.
+- Added ID# to every secret map for each stage from here on, for to better sort them.
 - Added Forest Secret.
 - 
 
