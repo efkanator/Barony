@@ -27,6 +27,10 @@ SFTsand.lmp four times, you've hit bedrock and I haven't made anything past that
 every including map you'll find additional unfinished tests and secrets that might just see the light
 of day. One day. Some day. Maybe. Mayday. We're going down.
 
+EDIT: So, uh, the SFTforestboss.lmp completely slipped my mind in this new update and I had it misplaced
+in the levels.txt file, as I claimed it wasn't finished. But it was. So, uh... There's that fixed. 
+Sorry 'bout that.
+
 
 - 2017-06-19 - [0.0.5:] - Here comes Caves and Forests - 
 
