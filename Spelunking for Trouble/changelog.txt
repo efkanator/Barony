@@ -12,7 +12,7 @@ Edited by: 		-
 
 - 2017-**-** - [0.0.*:] - ****** - 
 
-UNCOMMIT CHANGES:
+UNCOMMITED CHANGES:
 - Changed structure of end phase of SFTforestboss.lmp.
 - Changed textures of swampsecret.lmp to allow trees to replace some moss brick walls.
 - Changed floor/ceiling texture in ogre vault section of SFTcustomstart.lmp.
