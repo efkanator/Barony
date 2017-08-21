@@ -18,6 +18,7 @@ UNCOMMITED CHANGES:
 - Changed floor/ceiling texture in ogre vault section of SFTcustomstart.lmp.
 - Added ID# to every secret map for each stage from here on, for to better sort them.
 - Added Forest Secret.
+- sand09: Added spike trap to cover the entire center of the module.
 - 
 
 
