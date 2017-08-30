@@ -1,10 +1,8 @@
 - [Info] -
 
-Name:			Spelunking for Trouble
-Short:			SFT
-Version: 		0.0.6
-Stages:		        4, counting the start stage
-Modules:                30
+Name:			Impending Doom Room
+Short:			Doom Room, I guess?
+Version: 		1.0
 Created by: 	        KinGQII
 Edited by: 		-
 
