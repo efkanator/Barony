@@ -9,7 +9,7 @@ Created by: 	        KinGQII
 Edited by: 		-
 
 
-Hey, let's have this said before anything. Thank YOU, for downloading my map pack. Really. Tipping my hat to you. Right now. There we go, my hat is tipped.
+Hey, let's have this said before anything. Thank YOU, for downloading my pack. Really. Tipping my hat to you. Right now. There we go, my hat is tipped.
 
 
 
