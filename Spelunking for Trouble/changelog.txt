@@ -20,12 +20,12 @@ UNCOMMITED CHANGES:
 - Added Forest Secret.
 - sand09: Added spike trap to cover the entire center of the module.
 - Added dud chests to every entrance room for enhanced inventory management in MP
-- 
+- Added Sand boss stage.
 
 
 THINGS TO ADD:
 - Shop modules.
-- Sand stage boss.
+- Sand stage boss. DONE
 - Sand stage secret.
 -
 
