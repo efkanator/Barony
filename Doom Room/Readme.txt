@@ -2,27 +2,31 @@
 
 Name:			Impending Doom Room
 Short:			Doom Room, I guess?
-Version: 		1.0
+Version: 		1
 Created by: 	        KinGQII
 Edited by: 		-
 
 
-Hey, let's have this said before anything. Thank YOU, for downloading my map pack. Really. Tipping my hat to you. Right now. There we go, my hat is tipped.
+Hey, let's have this said before anything. Thank YOU, for downloading my pack. Really. Tipping my hat to you. Right now. There we go, my hat is tipped.
 
 
 
 - [Introduction:] -
 
-SFT started out as a very cave-centric map-pack containing the travels through escalating difficulty
-as one would expect. Now it has turned much more oriented around mazes and non-linear structure.
-More tight areas where you really have to squeeze around to find that ladder to the next level
-Speaking of levels, the pack contains the following stages with the following themes: 
+Feeling needy to punish anyone, or perhaps yourself? The Doom Room got you covered! 
+But lo and behold, no high expectations or hidden content here. This package is
+simply the map itself and the configuring text file. The map itself showcases a
+successful test of mine exercising a timed boulder mechanism. Boulder traps roll out 
+of bounds for the player as they trigger a chain reaction of boulder traps. Each
+mechanism tick shows the time left using the bust wall event on a set of 8 pillars
+whose color reflect the urgency. At the last tick, doom ensues and the player together
+with whatever else was in the room, gets steamrolled. Have a go with the editor to see
+how it's built. Also feel free to come with criticism on it's structure. Have fun!
 
 
 
 This package will be shared and updated via Github and will be the main way of 
-finding it. This is to 
-avoid redundancy for the viewers. Again, thanks a million 
+finding it. This is to avoid redundancy for the viewers. Again, thanks a million 
 for simply taking your time to even READ this and if you see anything that's looking 
 like a bug or something that could need fixing, please feel free to report them 
 on our Discord Server in the proper channel!
@@ -46,5 +50,3 @@ You should really head on over!
 
 	Remove the files in the edited folder and continue to restore your backup. 
 	You DID make one, right?
-
-
