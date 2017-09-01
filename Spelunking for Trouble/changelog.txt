@@ -23,6 +23,8 @@ and updated secretlevels.txt accordingly.
 - Added dud chests to every entrance room for enhanced inventory management in MP
 - Added Sand boss stage.
 - cave: Reworked base map for a new feel.
+- practice: Removed and replaced with test after an overwrite error.
+- Added shop modules.
 - 
 
 
