@@ -32,6 +32,8 @@ Speaking of levels, the pack contains the following stages with the following th
                                  corridors with hidden stashes and chasm floors. But these 
                                  stashes aren't just for take. Some say goblins have seeken out 
                                  refuge there and hoards their treasures from anyone uninvited.
+				 These passages however have been visited to-and-fro for houndreds
+				 of years so don't expect many unsprung traps.
 
 
         Name:                    Forest
