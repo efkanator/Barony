@@ -23,7 +23,10 @@ and updated secretlevels.txt accordingly.
 - Added dud chests to every entrance room for enhanced inventory management in MP
 - Added Sand boss stage.
 - cave: Optimized base map for a new more open feel with higher ceiling in general.
-- cave04: Made the module more connectable giving it entrance points from 4 directions instead of 2.
+- cave04: Made the module more connectable giving it entrance points from 4 directions 
+instead of 2.
+- cave11: Made the module also more connectable by replacing the corridor corner with 
+a pit with small bridges.
 - practice: Removed and replaced with test after an overwrite error.
 - Added shop modules.
 - 
