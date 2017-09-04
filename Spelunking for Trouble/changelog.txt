@@ -32,6 +32,8 @@ and updated secretlevels.txt accordingly.
 added wiring to the entrance doors so they would activate each other at the same time if one were
 primed.
 - sand09: Added spike trap to cover the entire center of the module.
+- sand10: Added.
+- sand11: Added.
 - Added dud chests to every entrance room for enhanced inventory management in MP.
 - sandboss: Added.
 - cave: Optimized base map for a new more open feel with higher ceiling in general.
