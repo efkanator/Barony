@@ -28,6 +28,7 @@ UNCOMMITED CHANGES:
 - secretlevels: Added ID# to every secret map for each stage from here on, for to better sort them
 and updated secretlevels.txt accordingly.
 - swampsecret: Added. Name remains vanilla since it's not customizable.
+- sand01: Moved some wiring as well as added lever gate to the entrance.
 - sand08: Changed the reward chest at the end of the course from food/food to treasure/magic. I also
 added wiring to the entrance doors so they would activate each other at the same time if one were
 primed.
