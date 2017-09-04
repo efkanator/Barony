@@ -36,7 +36,7 @@ and updated secretlevels.txt accordingly.
 instead of 2.
 - cave11: Made the module also more connectable by replacing the corridor corner with 
 a pit with small bridges.
-- practice: Removed and replaced with test after an overwrite error.
+- practice: Removed and replaced with test.lmp after an overwrite error.
 - Added shop modules.
 - 
 
