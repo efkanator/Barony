@@ -29,6 +29,8 @@ UNCOMMITED CHANGES:
 and updated secretlevels.txt accordingly.
 - swampsecret: Added. Name remains vanilla since it's not customizable.
 - sand01: Moved some wiring as well as added lever gate to the entrance.
+- sand02: Added lever gate entrance.
+- sand07: Changed two trapped gold piles into item piles.
 - sand08: Changed the reward chest at the end of the course from food/food to treasure/magic. I also
 added wiring to the entrance doors so they would activate each other at the same time if one were
 primed.
