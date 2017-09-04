@@ -51,7 +51,7 @@ THINGS TO ADD:
 - Shop modules. DONE.
 - Sand stage boss. DONE
 - Sand stage secret.
--
+- Sand stage secret entrace.
 
 
 - 2017-08-18 - [0.0.6:] - Sands, More Forest and even more Sands - 
