@@ -13,6 +13,7 @@ gen: SFTsand
 gen: SFTsand
 gen: SFTsand
 gen: SFTsand
+map: SFTsandboss
 gen: SFTancient
 gen: SFTancient
 gen: SFTancient
