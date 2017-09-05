@@ -1,10 +1,10 @@
 - [Info] -
 
-Name:			Spelunking for Trouble
+Name:			Spelunking For Trouble
 Short:			SFT
-Version: 		0.0.6
-Stages:		        4, counting the start stage
-Modules:                30
+Version: 		0.0.7
+Stages:		        5, counting the start stage
+Modules:                35
 Created by: 	        KinGQII
 Edited by: 		-
 
@@ -25,14 +25,14 @@ Speaking of levels, the pack contains the following stages with the following th
         Map-Attribute:           Mines
         IsImplemented:           Yes
         Quantity of Generations: 4
-        Quantity of Modules:     12
+        Quantity of Modules:     13
         Secret Stages:           1
         Has boss stage:          Yes 
         Discription:             Mountain interior so-to-say, ranging from tight spaces to wide 
                                  corridors with hidden stashes and chasm floors. But these 
                                  stashes aren't just for take. Some say goblins have seeken out 
                                  refuge there and hoards their treasures from anyone uninvited.
-				 These passages however have been visited to-and-fro for houndreds
+				 These passages however have been visited to-and-fro for hundreds
 				 of years so don't expect many unsprung traps.
 
 
@@ -41,7 +41,7 @@ Speaking of levels, the pack contains the following stages with the following th
         IsImplemented:           Yes
         Quantity of Generations: 4
         Quantity of Modules:     8
-        Secret Stages:           0
+        Secret Stages:           2
         Has boss stage:          Yes 
         Discription:             Forestry, with meadows and scattered sheds. I am well aware 
                                  that there's no open sky and that the forest has an 
@@ -54,9 +54,9 @@ Speaking of levels, the pack contains the following stages with the following th
         Map-Attribute:           Labyrinth
         IsImplemented:           Yes
         Quantity of Generations: 4
-        Quantity of Modules:     10
-        Secret Stages:           0
-        Has boss stage:          No 
+        Quantity of Modules:     12
+        Secret Stages:           1
+        Has boss stage:          Yes 
         Discription:             A desolate valley full of sand, scorpions and traps. Oh my, oh so
                                  many traps. Like look alive-stay frosty-be careful-think before
                                  you tread-many traps. Let's hope you'll learn to disarm them! Or
@@ -66,9 +66,9 @@ Speaking of levels, the pack contains the following stages with the following th
 
         Name:                    Temple
         Map-Attribute:           Ruins
-        IsImplemented:           No
-        Quantity of Generations: 0
-        Quantity of Modules:     0
+        IsImplemented:           Yes
+        Quantity of Generations: 4
+        Quantity of Modules:     2
         Secret Stages:           0
         Has boss stage:          No 
         Discription:             temple, serving as a sort of temple ground for cultist. Sure I 
