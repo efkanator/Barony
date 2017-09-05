@@ -34,6 +34,8 @@ as show what I intended to add the most/what I felt was missing.
 
 CHANGES:
 - forestboss: Changed structure of end phase.
+- forestsecret1_maze: Added.
+- forestsecret2_cultritual: Added.
 - swampsecret: Changed textures to allow trees to replace some moss brick walls.
 - customstart: Changed floor/ceiling texture in ogre vault section.
 - secretlevels: Added ID# to every secret map for each stage from here on, for to better sort them
