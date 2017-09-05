@@ -62,6 +62,7 @@ a pit with small bridges.
 - cave12: Added. An alternate version of cave11.
 - cavesecret1_chestgallery: Revamped room 7 so the player wouldn't instantly be assaulted by zombies upon
 triggering the trap. I also reworked the room 8 penalty by moving the hostile one closer upon spawning.
+There is also additional dud chests added for an increased chance to get throwing rocks.
 - practice: Removed and replaced with test.lmp after an overwrite error.
 - shop00-03: Added.
 - temple: Added.
