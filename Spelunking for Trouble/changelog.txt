@@ -71,7 +71,7 @@ There is also additional dud chests added for an increased chance to get throwin
 - Shop modules were reconfigured after the stock ones into stage based versions. Although stage 
 relativity can differ amongst the shop modules encountered in different stages, testing shows this to 
 be just a minor issue.
-- 
+- secretlevels: Implemented (hopefully) functional and properly.
 
 
 THINGS TO ADD:
