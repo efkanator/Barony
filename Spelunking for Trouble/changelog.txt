@@ -60,6 +60,8 @@ customizable I can name it something more fitting.
 - cave11: Made the module also more connectable by replacing the corridor corner with 
 a pit with small bridges.
 - cave12: Added. An alternate version of cave11.
+- cavesecret1_chestgallery: Revamped room 7 so the player wouldn't instantly be assaulted by zombies upon
+triggering the trap. I also reworked the room 8 penalty by moving the hostile one closer upon spawning.
 - practice: Removed and replaced with test.lmp after an overwrite error.
 - shop00-03: Added.
 - temple: Added.
