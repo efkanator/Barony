@@ -4,7 +4,7 @@ Name:			Spelunking For Trouble
 Short:			SFT
 Version: 		0.0.7
 Stages:		        5, counting the start stage
-Modules:                30
+Modules:                35
 Created by: 	        KinGQII
 Edited by: 		-
 
@@ -19,18 +19,19 @@ THINGS TO ADD:
 - 
 
 
-- 2017-09-05 - [0.0.7:] - ****** - 
+- 2017-09-05 - [0.0.7:] - The Sub-Complete Trio and the Temple Teaser - 
 
 A pretty big update revamping most already added content as well as adding new submaps/modules. But
 what I am proud to present in this release is the Sand Stage Secret which were delayed. It is done
 and it's glorious. Shop modules are now available. There are four shop submaps just like vanilla each
 with a theme resembling one of my stages albeit a bit inconsistent when it comes to whether they appear
-in order of stage.
+in order of stage. The first three stages: cave, forest and sand should be at least 80% playable now
+having their own boss stage, a secret stage and at least 8 submaps/modules each. Also, From now on I 
+will post a list of changes at the bottom of each new update to show what's new as well as show what I 
+intended to add/what I felt was missing the most.
 
-
-
-From now on I will post a list of changes at the bottom of each new update to show what's new as well
-as show what I intended to add the most/what I felt was missing.
+On another note, I've added JUST about a teaser of the next stage, the Temple, using the Ruins map
+attribute. Barely anything yet, just the entrance, base map and one submap.
 
 CHANGES:
 - forestboss: Changed structure of end phase.
