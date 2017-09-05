@@ -1,9 +1,9 @@
 - [Info] -
 
-Name:			Spelunking for Trouble
+Name:			Spelunking For Trouble
 Short:			SFT
-Version: 		0.0.6
-Stages:		        4, counting the start stage
+Version: 		0.0.7
+Stages:		        5, counting the start stage
 Modules:                30
 Created by: 	        KinGQII
 Edited by: 		-
@@ -19,9 +19,20 @@ THINGS TO ADD:
 - 
 
 
-- 2017-**-** - [0.0.*:] - ****** - 
+- 2017-09-05 - [0.0.7:] - ****** - 
 
-UNCOMMITED CHANGES:
+A pretty big update revamping most already added content as well as adding new submaps/modules. But
+what I am proud to present in this release is the Sand Stage Secret which were delayed. It is done
+and it's glorious. Shop modules are now available. There are four shop submaps just like vanilla each
+with a theme resembling one of my stages albeit a bit inconsistent when it comes to whether they appear
+in order of stage.
+
+
+
+From now on I will post a list of changes at the bottom of each new update to show what's new as well
+as show what I intended to add the most/what I felt was missing.
+
+CHANGES:
 - forestboss: Changed structure of end phase.
 - swampsecret: Changed textures to allow trees to replace some moss brick walls.
 - customstart: Changed floor/ceiling texture in ogre vault section.
@@ -37,8 +48,13 @@ primed.
 - sand09: Added spike trap to cover the entire center of the module.
 - sand10: Added.
 - sand11: Added.
-- Added dud chests to every entrance room for enhanced inventory management in MP.
 - sandboss: Added.
+- labyrinthsecret: Added.
+- Sand Stage Secret: Added. Difference between this one and the one above being that the above is the
+entrance with questionable ability to have it's name changed so it stays the same as vanilla. The Sand
+Stage Secret being the secret map the player is taken to from the entrance. Since that one is more
+customizable I can name it something more fitting.
+- Added dud chests to every entrance room for enhanced inventory management in MP.
 - cave: Optimized base map for a new more open feel with higher ceiling in general.
 - cave04: Made the module more connectable giving it entrance points from 4 directions instead of 2.
 - cave11: Made the module also more connectable by replacing the corridor corner with 
@@ -57,9 +73,9 @@ be just a minor issue.
 
 THINGS TO ADD:
 - Shop modules. DONE.
-- Sand stage boss. DONE
-- Sand stage secret.
-- Sand stage secret entrace.
+- Sand stage boss. DONE.
+- Sand stage secret. DONE.
+- Sand stage secret entrace. DONE.
 
 
 - 2017-08-18 - [0.0.6:] - Sands, More Forest and even more Sands - 
