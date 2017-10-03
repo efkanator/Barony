@@ -14,6 +14,7 @@ Edited by: 		-
 UNCOMMITED CHANGES:
 - Temple: Added some new multi-passable rooms for the Temple stage.
 - Added a txt document listing all used maps in the current release by their real names that will be continued upon as I work.
+- caves11: Changed name from "Crossroad Hole" to "Medium Hole" as prior to it's changed structure.
 - 
 
 
