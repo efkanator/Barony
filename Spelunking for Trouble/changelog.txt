@@ -12,10 +12,13 @@ Edited by: 		-
 - 2017-**-** - [0.0.*:] - ****** - 
 
 UNCOMMITED CHANGES:
+- Temple: Added some new multi-passable rooms for the Temple stage.
+- Added a txt document listing all used maps in the current release by their real names that will be continued upon as I work.
 - 
 
 
 THINGS TO ADD:
+- Complete the new Temple stage.
 - 
 
 
