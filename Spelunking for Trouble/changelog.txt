@@ -22,6 +22,8 @@ UNCOMMITED CHANGES:
 - forest: Changed map name from "The Forest" to "The Swamp" to make sure the correct baddies spawn.
 - sand04: Changed map name from an misplaced name to "Oasis". 
 - sand10: Added space in map name.
+- sand11: Same as above.
+- sandboss: Changed map name from "Sand Boss Area" to "The Tests of Sandstone Greed".
 - Changed map names in order of their index incase they were in a series ex. SFTforest02 and SFTforest03 with resp. names "Small Shed 1" and "Small Shed 2"
 - 
 
