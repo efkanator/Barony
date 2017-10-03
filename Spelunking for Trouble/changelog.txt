@@ -14,6 +14,7 @@ Edited by: 		-
 UNCOMMITED CHANGES:
 - Temple: Added some new multi-passable rooms for the Temple stage.
 - Added a txt document listing all used maps in the current release by their real names that will be continued upon as I work.
+- cave00: Changed map name from "Entrance" to "Vacant Part".
 - cave02: Changed map name from "First Small Mine" to "Small Mine 1".
 - cave03: Changed map name from "Second Small Mine" to "Small Mine 2".
 - cave11: Changed map name from "Crossroad Hole" to "Medium Hole 1" as prior to it's changed structure.
@@ -24,12 +25,14 @@ UNCOMMITED CHANGES:
 - sand10: Added space in map name.
 - sand11: Same as above.
 - sandboss: Changed map name from "Sand Boss Area" to "The Tests of Sandstone Greed".
+- temple00: Changed map name from "Entrance" to "Malign Entrance".
 - Changed map names in order of their index incase they were in a series ex. SFTforest02 and SFTforest03 with resp. names "Small Shed 1" and "Small Shed 2"
 - 
 
 
 THINGS TO ADD:
 - Complete the new Temple stage.
+- Maybe not in this update but a final boss stage with a (non canon) Baron who puts the player through a gauntlet of sections from previous stages or at least with a strong sense of them, making the player have to go through a cave, forest, sand, temple and the final themed sections before they can challenge the Baron.
 - 
 
 
