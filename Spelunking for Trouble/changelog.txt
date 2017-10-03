@@ -14,8 +14,10 @@ Edited by: 		-
 UNCOMMITED CHANGES:
 - Temple: Added some new multi-passable rooms for the Temple stage.
 - Added a txt document listing all used maps in the current release by their real names that will be continued upon as I work.
-- caves11: Changed map name from "Crossroad Hole" to "Medium Hole 1" as prior to it's changed structure.
-- caves12: As above but to "Medium Hole 2".
+- cave02: Changed map name from "First Small Mine" to "Small Mine 1".
+- cave03: Changed map name from "Second Small Mine" to "Small Mine 2".
+- cave11: Changed map name from "Crossroad Hole" to "Medium Hole 1" as prior to it's changed structure.
+- cave12: As above but to "Medium Hole 2".
 - forest: Changed map name from "The Forest" to "The Swamp" to make sure the correct baddies spawn.
 - Changed map names in order of their index incase they were in a series ex. SFTforest02 and SFTforest03 with resp. names "Small Shed 1" and "Small Shed 2"
 - 
