@@ -17,6 +17,7 @@ UNCOMMITED CHANGES:
 - caves11: Changed map name from "Crossroad Hole" to "Medium Hole 1" as prior to it's changed structure.
 - caves12: As above but to "Medium Hole 2".
 - forest: Changed map name from "The Forest" to "The Swamp" to make sure the correct baddies spawn.
+- Changed map names in order of their index incase they were in a series ex. SFTforest02 and SFTforest03 with resp. names "Small Shed 1" and "Small Shed 2"
 - 
 
 
