@@ -20,6 +20,7 @@ UNCOMMITED CHANGES:
 - cave12: As above but to "Medium Hole 2".
 - caveboss: Changed map name from "Cave Boss Area" to "an Eerie and Dark place".
 - forest: Changed map name from "The Forest" to "The Swamp" to make sure the correct baddies spawn.
+- sand04: Changed map name from an misplaced name to "Oasis". 
 - Changed map names in order of their index incase they were in a series ex. SFTforest02 and SFTforest03 with resp. names "Small Shed 1" and "Small Shed 2"
 - 
 
