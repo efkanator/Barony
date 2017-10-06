@@ -25,6 +25,7 @@ UNCOMMITED CHANGES:
 - sand10: Added space in map name.
 - sand11: Same as above.
 - sandboss: Changed map name from "Sand Boss Area" to "The Tests of Sandstone Greed".
+- temple: Removed most part of outer ceiling level to accomidate the level's demons.
 - temple00: Changed map name from "Entrance" to "Malign Entrance".
 - Changed map names in order of their index incase they were in a series ex. SFTforest02 and SFTforest03 with resp. names "Small Shed 1" and "Small Shed 2"
 - 
