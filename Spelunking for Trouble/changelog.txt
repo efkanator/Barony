@@ -14,6 +14,8 @@ Edited by: 		-
 UNCOMMITED CHANGES:
 - Temple: Added some new multi-passable rooms for the Temple stage.
 - Added a txt document listing all used maps in the current release by their real names that will be continued upon as I work.
+- customstart: Removed a big abundance of torches in hopes of reducing screen tearing.
+- customstart: Edited waterfall for a more elevated look.
 - cave00: Changed map name from "Entrance" to "Vacant Part".
 - cave02: Changed map name from "First Small Mine" to "Small Mine 1".
 - cave03: Changed map name from "Second Small Mine" to "Small Mine 2".
